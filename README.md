@@ -1,7 +1,9 @@
-==DotVim
+DotVim
+------
 I am using this repo as a way to synchronize my vim configuration files across multiple machines. I have included plugins as git submodules so that they may be updated as the plugin projects themselves progress, without having to maintain them in my repo.
 
-===Usage
+Usage
+=====
 * check out this repo into a folder named .vim
 	`git clone git@gitlab.monsanto.com:RLONG3/dotvim.git .vim`
 * enter the .vim directory and recursively checkout the submodules
