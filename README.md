@@ -5,7 +5,7 @@ I am using this repo as a way to synchronize my vim configuration files across m
 Usage
 =====
 * check out this repo into a folder named .vim
-	`git clone git@gitlab.monsanto.com:RLONG3/dotvim.git .vim`
+	`git clone <the repo> .vim`
 * enter the .vim directory and recursively checkout the submodules
 	`git submodule update --init --recursive`
 * if you are using windows, copy the vimrc file to the .vimrc in your home directory
