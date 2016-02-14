@@ -28,3 +28,6 @@
 [submodule "bundle/emmet"]
 	path = bundle/emmet
 	url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/avro-vim"]
+	path = bundle/avro-vim
+	url = https://github.com/dln/avro-vim
