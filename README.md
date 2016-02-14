@@ -2,6 +2,8 @@ DotVim
 ------
 I am using this repo as a way to synchronize my vim configuration files across multiple machines. I have included plugins as git submodules so that they may be updated as the plugin projects themselves progress, without having to maintain them in my repo.
 
+Credit for the idea to Drew Neil ( @nelstrom ) at [vimcasts.org](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
+
 Usage
 =====
 * check out this repo into a folder named .vim
