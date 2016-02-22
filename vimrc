@@ -30,3 +30,4 @@ inoremap <Up> <C-o>gk
 
 vnoremap \ll :'<,'>s/ /^M/g<cr>
 nnoremap \ll :s/ /^M/g<cr>
+au BufRead,BufNewFile *.avdl setlocal filetype=avro-idl

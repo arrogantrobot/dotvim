@@ -4,6 +4,15 @@ I am using this repo as a way to synchronize my vim configuration files across m
 
 Credit for the idea to Drew Neil ( @nelstrom ) at [vimcasts.org](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 
+to add new submodules:
+```
+cd ~/.vim
+mkdir ~/.vim/bundle
+git submodule add http://github.com/tpope/vim-fugitive.git bundle/fugitive
+git add .
+git commit -m "Install Fugitive.vim bundle as a submodule."
+```
+
 Usage
 =====
 * check out this repo into a folder named .vim
