@@ -37,3 +37,6 @@
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "bundle/airline-themes"]
+	path = bundle/airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
