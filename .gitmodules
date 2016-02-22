@@ -19,9 +19,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "bundle/pig-latin"]
-	path = bundle/pig-latin
-	url = https://github.com/rjohnsondev/vim-pig-latin.git
 [submodule "bundle/scala"]
 	path = bundle/scala
 	url = https://github.com/derekwyatt/vim-scala.git
