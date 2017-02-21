@@ -40,3 +40,9 @@
 [submodule "bundle/airline-themes"]
 	path = bundle/airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "bundle/vim-hcl"]
+	path = bundle/vim-hcl
+	url = https://github.com/fatih/vim-hclfmt.git
+[submodule "bundle/wim-wdl"]
+	path = bundle/wim-wdl
+	url = https://github.com/broadinstitute/vim-wdl.git

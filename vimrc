@@ -31,4 +31,9 @@ inoremap <Up> <C-o>gk
 vnoremap \ll :'<,'>s/ /^M/g<cr>
 nnoremap \ll :s/ /^M/g<cr>
 au BufRead,BufNewFile *.avdl setlocal filetype=avro-idl
+autocmd BufNewFile,BufRead *.avsc set ft=json
 
+let g:hcl_fmt_autosave = 0
+let g:tf_fmt_autosave = 0
+let g:nomad_fmt_autosave = 0
+let g:go_fmt_command = "goimports"
