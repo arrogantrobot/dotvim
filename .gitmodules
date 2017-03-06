@@ -46,3 +46,6 @@
 [submodule "bundle/wim-wdl"]
 	path = bundle/wim-wdl
 	url = https://github.com/broadinstitute/vim-wdl.git
+[submodule "bundle/hocon"]
+	path = bundle/hocon
+	url = https://github.com/GEverding/vim-hocon.git
